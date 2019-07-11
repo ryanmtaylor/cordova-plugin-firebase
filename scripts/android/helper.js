@@ -111,7 +111,7 @@ module.exports = {
         let buildGradle = readRootBuildGradle();
 
         // remove any lines we added
-        buildGradle = buildGradle.replace(/(?:^|\r?\n)(.*)cordova-plugin-firebase-lib*?(?=$|\r?\n)/g, '');
+        buildGradle = buildGradle.replace(/(?:^|\r?\n)(.*)cordova-plugin-firebase-alipes*?(?=$|\r?\n)/g, '');
 
         writeRootBuildGradle(buildGradle);
     }

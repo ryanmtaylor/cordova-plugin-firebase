@@ -1,5 +1,5 @@
 {
-    "name": "cordova-plugin-firebase-lib",
+    "name": "cordova-plugin-firebase-alipes",
     "version": "5.1.1",
     "author": {
         "name": "Wiz Panda Techno Solutions",
@@ -8,11 +8,11 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/wizpanda/cordova-plugin-firebase-lib"
+        "url": "https://github.com/ryanmtaylor/cordova-plugin-firebase"
     },
     "description": "Cordova plugin for Google Firebase",
     "cordova": {
-        "id": "cordova-plugin-firebase-lib",
+        "id": "cordova-plugin-firebase-alipes",
         "platforms": [
             "android",
             "ios",
